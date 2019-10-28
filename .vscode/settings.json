@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/daniel/.local/share/virtualenvs/tutorial-sqlalchemy-Zf_7GJjf/bin/python",
+    "sqltools.connections": [
+        {
+            "database": "./tutorial-sqlalchemy/contacts.sqlite",
+            "dialect": "SQLite",
+            "name": "Contacts"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
